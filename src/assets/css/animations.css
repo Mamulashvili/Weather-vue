@@ -1,0 +1,17 @@
+@keyframes fade-down {
+  from {
+    top: -1000px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    top: 0;
+  }
+  to {
+    top: -1000px;
+  }
+}
