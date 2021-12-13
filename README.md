@@ -1,5 +1,5 @@
 # weather
-Vue weather app.
+Vue simple weather app.
 Design:
 https://dribbble.com/shots/16361858-Weather-Forecast-Mobile-application/attachments/9054245?mode=media
 
